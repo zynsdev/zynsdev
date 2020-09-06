@@ -33,10 +33,11 @@ Hi, my name is Trung Luc. I'm a student in FPT University, Da Nang Campus.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zynsdev&layout=compact&hide=html" alt="zynsdev" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=zynsdev&show_icons=true&hide_border=false" alt="zynsdev" /></p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zynsdev&layout=compact&hide=html)
+![](https://github-readme-stats.vercel.app/api?username=zynsdev&show_icons=true&hide_border=false)
 
 <br />
 ⭐️ From [zynsdev](https://github.com/zynsdev)
 
+<br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zynsdev" alt="zynsdev" /> </p>
