@@ -40,4 +40,7 @@ Hi, my name is Trung Luc. I'm a student in FPT University, Da Nang Campus.
 ⭐️ From [zynsdev](https://github.com/zynsdev)
 
 <br />
+<br />
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zynsdev" alt="zynsdev" /> </p>
