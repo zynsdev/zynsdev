@@ -14,7 +14,7 @@ Hi, my name is Trung Luc. I'm a student in FPT University, Da Nang Campus.
 - 📝 I regulary write articles on [paindever.me](paindever.me)
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I started helping JEE and AIPMT aspirants, by launching my own platform known as [CompetitiveGeeks](https://competitivegeeks.wordpress.com/) in 2018, and sold almost **750+** Notes so far!
+- ⚡️ Fun-Fact: I love coffee and travel.
 -  📫 How to reach me **trungluc217@gmail.com**
 - 📝[Resume](https://drive.google.com/file/d/1cLWo0CS7TTAgTcfHsCEt3SF2fmHRpdjL/view)
 
