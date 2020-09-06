@@ -1,15 +1,7 @@
-# Hey 👋🏽, I'm [Trung Luc](https://paindever.me) 
+<h1 align="center">Hi 👋, I'm Trung Luc</h1>
+<h3 align="center">A junior developer from Vietnam</h3>
 
-<a href="https://facebook.com/zynsdev">
-  <img align="left" alt="Zyns's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://www.instagram.com/zynsdev/">
-  <img align="left" alt="Zynsdev's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="mailto:trungluc217@gmail.com">
-  <img align="left" alt="Zynsdev's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<br />
+
 <br />
 
 Hi, my name is Trung Luc. I'm a student in FPT University, Da Nang Campus.
@@ -18,14 +10,13 @@ Hi, my name is Trung Luc. I'm a student in FPT University, Da Nang Campus.
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [A-POP](https://github.com/abhisheknaiidu/A-POP);
-- 🌱 I’m currently learning GraphQL and C++; 
-- 👯 I’m looking to collaborate on [A-POP](https://github.com/abhisheknaiidu/A-POP) 🤝;
+- 🌱 I’m currently learning **Tensorflow**
+- 📝 I regulary write articles on [paindever.me](paindever.me)
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I started helping JEE and AIPMT aspirants, by launching my own platform known as [CompetitiveGeeks](https://competitivegeeks.wordpress.com/) in 2018, and sold almost **750+** Notes so far!
-- 📫 How to reach me: geekyabhi12@gmail.com;
-- 📝[Resume](https://drive.google.com/file/d/1TIgJ7rDBUYSkbs_QNcIEttJ5BFaIW3nn/view)
+-  📫 How to reach me **trungluc217@gmail.com**
+- 📝[Resume](https://drive.google.com/file/d/1cLWo0CS7TTAgTcfHsCEt3SF2fmHRpdjL/view)
 
 **Languages and Tools:**  
 
@@ -42,9 +33,10 @@ Hi, my name is Trung Luc. I'm a student in FPT University, Da Nang Campus.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zynsdev&layout=compact&hide=html" alt="zynsdev" /></p>
 
 ![Zynsdev's github stats](https://github-readme-stats.vercel.app/api?username=zynsdev&show_icons=true&hide_border=true)
 
 ⭐️ From [zynsdev](https://github.com/zynsdev)
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zynsdev" alt="zynsdev" /> </p>
