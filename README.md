@@ -34,8 +34,8 @@ Hi, my name is Trung Luc. I'm a student in FPT University, Da Nang Campus.
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zynsdev&layout=compact&hide=html" alt="zynsdev" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=zynsdev&show_icons=true&hide_border=false" alt="zynsdev" /></p>
 
-![Zynsdev's github stats](https://github-readme-stats.vercel.app/api?username=zynsdev&show_icons=true&hide_border=true)
 
 ⭐️ From [zynsdev](https://github.com/zynsdev)
 
